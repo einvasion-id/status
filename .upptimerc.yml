@@ -5,17 +5,28 @@ repo: status # The name of this repository
 sites:
   - name: E-Invasion
     url: https://e-invasion.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Babyplan.com
+    url: https://babyplan.com
+  - name: Babyplan.dk
+    url: https://babyplan.dk
+  - name: Babyplan.se
+    url: https://babyplan.se
+  - name: Babyplan.no
+    url: https://babyplan.no
+  - name: Billige-Teste.dk
+    url: https://billige-teste.dk
+  - name: Billiga-Tester.se
+    url: https://billiga-tester.se
+  - name: Billige-Tester.no
+    url: https://billige-tester.no
+  - name: Clearblueshop.dk
+    url: https://clearblueshop.dk
+  - name: Clearblueshop.se
+    url: https://clearblueshop.se
+  - name: Clearblueshop.no
+    url: https://clearblueshop.no
+  - name: Swimcount.se
+    url: https://swimcount.se
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
