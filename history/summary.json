@@ -4,18 +4,20 @@
     "url": "https://e-invasion.com",
     "icon": "https://icons.duckduckgo.com/ip3/e-invasion.com.ico",
     "slug": "e-invasion",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 1710,
-    "timeWeek": 1007,
-    "timeMonth": 1007,
-    "timeYear": 1007,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 933,
+    "timeDay": 1136,
+    "timeWeek": 933,
+    "timeMonth": 933,
+    "timeYear": 933,
+    "dailyMinutesDown": {
+      "2026-03-05": 0
+    }
   },
   {
     "name": "Babyplan.com",
@@ -202,17 +204,19 @@
     "url": "https://swimcount.se",
     "icon": "https://icons.duckduckgo.com/ip3/swimcount.se.ico",
     "slug": "swimcount-se",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 857,
-    "timeDay": 770,
-    "timeWeek": 857,
-    "timeMonth": 857,
-    "timeYear": 857,
-    "dailyMinutesDown": {}
+    "time": 878,
+    "timeDay": 867,
+    "timeWeek": 878,
+    "timeMonth": 878,
+    "timeYear": 878,
+    "dailyMinutesDown": {
+      "2026-03-05": 0
+    }
   }
 ]
