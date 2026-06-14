@@ -1,7 +1,7 @@
 url: https://babyplan.se
-status: up
-code: 200
-responseTime: 648
-lastUpdated: 2026-06-14T00:01:53.476Z
+status: down
+code: 403
+responseTime: 144
+lastUpdated: 2026-06-14T13:10:31.458Z
 startTime: 2026-03-02T14:56:22.969Z
 generator: Upptime <https://github.com/upptime/upptime>
