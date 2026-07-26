@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-invasion.com.ico",
     "slug": "e-invasion",
     "status": "up",
-    "uptime": "88.72%",
+    "uptime": "88.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.72%",
+    "uptimeYear": "88.78%",
     "time": 613,
     "timeDay": 744,
     "timeWeek": 606,
@@ -41,19 +41,20 @@
     "url": "https://babyplan.com",
     "icon": "https://icons.duckduckgo.com/ip3/babyplan.com.ico",
     "slug": "babyplan-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 655,
-    "timeDay": 909,
-    "timeWeek": 691,
-    "timeMonth": 706,
-    "timeYear": 655,
+    "time": 652,
+    "timeDay": 521,
+    "timeWeek": 621,
+    "timeMonth": 687,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2026-06-14": 128
+      "2026-06-14": 128,
+      "2026-07-26": 2
     }
   },
   {
@@ -61,20 +62,21 @@
     "url": "https://babyplan.dk",
     "icon": "https://icons.duckduckgo.com/ip3/babyplan.dk.ico",
     "slug": "babyplan-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1486,
-    "timeDay": 2625,
-    "timeWeek": 1553,
-    "timeMonth": 1511,
-    "timeYear": 1486,
+    "time": 1476,
+    "timeDay": 1327,
+    "timeWeek": 1362,
+    "timeMonth": 1463,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2026-04-23": 54,
-      "2026-06-14": 128
+      "2026-06-14": 128,
+      "2026-07-26": 2
     }
   },
   {
@@ -82,19 +84,20 @@
     "url": "https://babyplan.se",
     "icon": "https://icons.duckduckgo.com/ip3/babyplan.se.ico",
     "slug": "babyplan-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 930,
-    "timeDay": 1066,
-    "timeWeek": 967,
-    "timeMonth": 997,
-    "timeYear": 930,
+    "time": 925,
+    "timeDay": 592,
+    "timeWeek": 861,
+    "timeMonth": 969,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2026-06-14": 128
+      "2026-06-14": 128,
+      "2026-07-26": 2
     }
   },
   {
@@ -102,19 +105,20 @@
     "url": "https://babyplan.no",
     "icon": "https://icons.duckduckgo.com/ip3/babyplan.no.ico",
     "slug": "babyplan-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 995,
-    "timeDay": 1026,
-    "timeWeek": 896,
-    "timeMonth": 968,
-    "timeYear": 995,
+    "time": 988,
+    "timeDay": 524,
+    "timeWeek": 787,
+    "timeMonth": 937,
+    "timeYear": 988,
     "dailyMinutesDown": {
-      "2026-06-14": 128
+      "2026-06-14": 128,
+      "2026-07-26": 1
     }
   },
   {
@@ -122,19 +126,20 @@
     "url": "https://billige-teste.dk",
     "icon": "https://icons.duckduckgo.com/ip3/billige-teste.dk.ico",
     "slug": "billige-teste-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1461,
-    "timeDay": 1167,
-    "timeWeek": 1342,
-    "timeMonth": 1574,
-    "timeYear": 1461,
+    "time": 1452,
+    "timeDay": 642,
+    "timeWeek": 1189,
+    "timeMonth": 1527,
+    "timeYear": 1452,
     "dailyMinutesDown": {
-      "2026-06-14": 127
+      "2026-06-14": 127,
+      "2026-07-26": 1
     }
   },
   {
@@ -142,19 +147,20 @@
     "url": "https://billiga-tester.se",
     "icon": "https://icons.duckduckgo.com/ip3/billiga-tester.se.ico",
     "slug": "billiga-tester-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1471,
-    "timeDay": 2442,
-    "timeWeek": 1550,
-    "timeMonth": 1564,
-    "timeYear": 1471,
+    "time": 1462,
+    "timeDay": 1280,
+    "timeWeek": 1371,
+    "timeMonth": 1517,
+    "timeYear": 1462,
     "dailyMinutesDown": {
-      "2026-06-14": 127
+      "2026-06-14": 127,
+      "2026-07-26": 1
     }
   },
   {
@@ -162,19 +168,20 @@
     "url": "https://billige-tester.no",
     "icon": "https://icons.duckduckgo.com/ip3/billige-tester.no.ico",
     "slug": "billige-tester-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1451,
-    "timeDay": 1638,
-    "timeWeek": 1472,
-    "timeMonth": 1472,
-    "timeYear": 1451,
+    "time": 1441,
+    "timeDay": 830,
+    "timeWeek": 1290,
+    "timeMonth": 1425,
+    "timeYear": 1441,
     "dailyMinutesDown": {
-      "2026-06-14": 127
+      "2026-06-14": 127,
+      "2026-07-26": 1
     }
   },
   {
@@ -182,19 +189,20 @@
     "url": "https://clearblueshop.dk",
     "icon": "https://icons.duckduckgo.com/ip3/clearblueshop.dk.ico",
     "slug": "clearblueshop-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 839,
-    "timeDay": 1138,
-    "timeWeek": 822,
-    "timeMonth": 932,
-    "timeYear": 839,
+    "time": 833,
+    "timeDay": 581,
+    "timeWeek": 722,
+    "timeMonth": 902,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2026-06-14": 127
+      "2026-06-14": 127,
+      "2026-07-26": 1
     }
   },
   {
@@ -202,19 +210,20 @@
     "url": "https://clearblueshop.se",
     "icon": "https://icons.duckduckgo.com/ip3/clearblueshop.se.ico",
     "slug": "clearblueshop-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1074,
-    "timeDay": 1283,
-    "timeWeek": 1143,
-    "timeMonth": 1075,
-    "timeYear": 1074,
+    "time": 1068,
+    "timeDay": 715,
+    "timeWeek": 1019,
+    "timeMonth": 1045,
+    "timeYear": 1068,
     "dailyMinutesDown": {
-      "2026-06-14": 127
+      "2026-06-14": 127,
+      "2026-07-26": 0
     }
   },
   {
@@ -222,19 +231,20 @@
     "url": "https://clearblueshop.no",
     "icon": "https://icons.duckduckgo.com/ip3/clearblueshop.no.ico",
     "slug": "clearblueshop-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 966,
-    "timeDay": 1222,
-    "timeWeek": 1063,
-    "timeMonth": 999,
-    "timeYear": 966,
+    "time": 960,
+    "timeDay": 625,
+    "timeWeek": 934,
+    "timeMonth": 967,
+    "timeYear": 960,
     "dailyMinutesDown": {
-      "2026-06-14": 127
+      "2026-06-14": 127,
+      "2026-07-26": 0
     }
   }
 ]
