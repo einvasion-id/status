@@ -1,7 +1,7 @@
 url: https://babyplan.no
-status: up
-code: 200
-responseTime: 836
-lastUpdated: 2026-09-04T00:38:59.116Z
+status: down
+code: 403
+responseTime: 107
+lastUpdated: 2026-09-05T00:26:02.274Z
 startTime: 2026-03-02T14:56:25.545Z
 generator: Upptime <https://github.com/upptime/upptime>
