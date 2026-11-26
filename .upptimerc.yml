@@ -25,6 +25,8 @@ sites:
     url: https://clearblueshop.se
   - name: Clearblueshop.no
     url: https://clearblueshop.no
+  - name: Clearblue Fulfillment
+    url: cb.bplnordic.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
